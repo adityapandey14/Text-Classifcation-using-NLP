@@ -6,7 +6,7 @@ This kernel aims to give  a brief overview of performing text classification usi
 
 ![alt text](http://url/to/img.png)
 
-##Installation
+## Installation
 ```python
 pip install nltk
 ```
